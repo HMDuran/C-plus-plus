@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
 {
 	int airplane[13][6];
 	char airchar[13][6];
-	string ticket;
+	string ticket;`
 	int row[2];
 	char seat;
  
